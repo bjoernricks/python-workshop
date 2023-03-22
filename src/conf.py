@@ -85,6 +85,5 @@ html_theme_options = {
 # https://myst-parser--467.org.readthedocs.build/en/467/syntax/optional.html#auto-generated-header-anchors
 myst_heading_anchors = 4
 
-pygments_style = "monokai"
-# pygments_style = "colorful"
-# pygments_style = "zenburn"
+# pygments_style = "monokai"
+pygments_style = "zenburn"
