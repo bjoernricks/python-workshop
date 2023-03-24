@@ -7,4 +7,5 @@ introduction
 tooling
 features/index
 basics/index
+in-depth/index
 ```
