@@ -8,7 +8,4 @@ list/index
 functions/index
 control/index
 dict/index
-classes/index
-modules/index
-exceptions/index
 ```

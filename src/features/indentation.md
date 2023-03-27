@@ -1,14 +1,18 @@
 # Python uses indentation instead of curly braces to structure code
 
-```python
+```{code-block}
+:caption: Python
+
 if foo:
     print("Hello World")
 ```
 
 instead of
-```c
+```{code-block}
+:caption: C
+
 if (foo) {
-print("Hello World")
+printf("Hello World")
 }
 ```
 

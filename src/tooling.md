@@ -7,8 +7,8 @@
 	* Easy setup
 	* Very extensible
 	* Very good Python support
-	* Code Highlighting
-	* Code Completion
-    * Better overview in a single application
+	* Code highlighting
+	* Code completion
+    * Better overview
     * A terminal is included
 	* `Shift + Enter` allows for running current line or selected Python code

@@ -26,32 +26,15 @@ fruits = {
 }
 ```
 
-## Getting an item
+Next:
 
-```{literalinclude} get.py
-```
+```{toctree}
+:maxdepth: 2
 
-## Adding and updating items
-
-```{literalinclude} update.py
-```
-
-## Deleting an item
-
-```{literalinclude} delete.py
-```
-
-## Keys
-
-```{literalinclude} keys.py
-```
-
-## Values
-
-```{literalinclude} values.py
-```
-
-## Items
-
-```{literalinclude} items.py
+1/get
+2/update
+3/delete
+4/keys
+5/values
+6/items
 ```

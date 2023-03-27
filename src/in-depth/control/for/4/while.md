@@ -2,6 +2,8 @@
 
 The example from the last chapter simplified by using a `for` loop.
 
-```{literalinclude} simplified.py
+```{literalinclude} ../../while/while.py
 ```
 
+```{literalinclude} simplified.py
+```

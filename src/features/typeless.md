@@ -2,13 +2,17 @@
 
 Variables are typeless
 
-```python
+```{code-block}
+:caption: Python
+
 a_variable = 1
 ```
 
 instead of
 
-```c
+```{code-block}
+:caption: C/C++/Java
+
 int a_variable = 1
 ```
 
@@ -32,3 +36,5 @@ but nothing forbids
 ```python
 a_variable: int = "this is a string"
 ```
+
+The optional typing in Python (called type hints) is not used in this workshop.
