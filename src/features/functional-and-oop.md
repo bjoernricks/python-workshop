@@ -26,7 +26,7 @@ class Baz:
 Or mix both
 
 ```{code-block}
-:caption: Python: A class calling a function
+:caption: Python a class calling a function
 
 def do_something():
     ...

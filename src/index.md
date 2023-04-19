@@ -3,8 +3,8 @@
 ```{toctree}
 :maxdepth: 2
 
+agenda
 introduction
-expectations
 tooling
 features/index
 basics/index

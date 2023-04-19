@@ -4,7 +4,7 @@
 :caption: Python
 
 if foo:
-    print("Hello World")
+    print("Hello world")
 ```
 
 instead of
@@ -12,7 +12,7 @@ instead of
 :caption: C
 
 if (foo) {
-printf("Hello World")
+printf("Hello world")
 }
 ```
 

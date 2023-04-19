@@ -1,6 +1,6 @@
 # Python variables are *typeless*
 
-Variables are typeless
+Variable definitions are typeless
 
 ```{code-block}
 :caption: Python

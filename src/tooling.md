@@ -5,6 +5,7 @@
 
 * Why VSCode?
 	* Easy setup
+	* Runs everywhere
 	* Very extensible
 	* Very good Python support
 	* Code highlighting
