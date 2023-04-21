@@ -14,6 +14,11 @@ print(colors[:2])  # prints out ["red", "green"]
 # creates a copy (!) of the list, prints out ["red", "green", "blue", "orange"]
 print(colors[:])
 
+copy = colors[:]
+colors.pop(1)
+print(copy)
+print(colors)
+
 # no exception, prints out ["red", "green", "blue", "orange"]
 print(colors[0:100])
 print(colors[100:])  # no exception, prints out empty list

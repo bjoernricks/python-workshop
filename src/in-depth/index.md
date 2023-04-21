@@ -5,7 +5,9 @@
 
 str/index
 list/index
+dict/index
 functions/index
 control/index
-dict/index
+class/index
+modules/index
 ```

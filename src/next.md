@@ -2,10 +2,8 @@
 
 What's missing:
 
-* Structuring Code
-  * Classes
-  * Modules
 * Exception Handling
+* Type Hints
 
 Maybe:
 
