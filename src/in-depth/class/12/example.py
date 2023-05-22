@@ -91,7 +91,7 @@ box_of_oranges = BoxOf(Orange(), 6)
 container = Container()
 
 basket = Basket()
-basket += apple
+basket += apple  # basket += apple is the same as basket = basket + apple
 basket += box_of_oranges
 basket += container
 basket += pear
