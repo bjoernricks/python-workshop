@@ -14,9 +14,10 @@ simple scripts:
   * Most important data types and their usage
 
 Second Part:
+  * Dictionaries
   * How to write a function
   * Understanding control structures
-  * Dictionaries
-  * Classes and Modules
+  * Classes
+  * Packages and Modules
 
 **Please always ask questions!** Even when you think they are *stupid*
