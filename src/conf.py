@@ -8,8 +8,10 @@
 
 # pylint: disable=missing-module-docstring,invalid-name,redefined-builtin
 
+from datetime import date
+
 project = "Python Workshop"
-copyright = "2023, Björn Ricks"
+copyright = f"{date.today().year}, Björn Ricks"
 author = "Björn Ricks"
 release = "1.0.0"
 
