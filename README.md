@@ -7,7 +7,7 @@ Website: https://bjoernricks.github.io/python-workshop/
 To install the dependencies to build and run the docs run:
 
 ```sh
-poetry install
+poetry install --no-root
 ```
 
 ## Live Server
